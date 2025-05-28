@@ -729,7 +729,6 @@
         "version": "0.0.5",
         "mainFile": "index.ts",
         "rootDir": "components/bit/get-bit-version"
-    },
     "git": {
         "name": "git",
         "scope": "teambit.git",
