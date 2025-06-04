@@ -7,7 +7,6 @@ project {
   license        = "BUSL-1.1"
   copyright_year = 2024
 
-  header_ignore = [
     "command/asset/*.hcl",
     "command/agent/bindata_assetfs.go",
     "ui/node_modules",
