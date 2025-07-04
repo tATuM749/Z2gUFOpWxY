@@ -21,7 +21,6 @@ header:
     - 'docs'
     - 'bitsail-dist'
     - '**/*.md'
-    - 'LICENSE'
     - 'NOTICE'
     - '**/*.json'
     - '**/*.iml'
