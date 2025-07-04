@@ -18,7 +18,6 @@ checks:
       threshold: 12
   method-count:
     enabled: true
-    config:
       threshold: 25
   method-lines:
     enabled: true
