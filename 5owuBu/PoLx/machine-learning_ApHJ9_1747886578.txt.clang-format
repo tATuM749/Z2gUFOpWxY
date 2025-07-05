@@ -13,5 +13,4 @@ AccessModifierOffset: -2
 AllowShortLoopsOnASingleLine: false
 # Enforce always the same pointer alignment.
 IncludeBlocks: Preserve
-PointerAlignment: Right
 SpacesBeforeTrailingComments: 1
