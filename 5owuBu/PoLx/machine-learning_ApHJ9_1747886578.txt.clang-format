@@ -6,7 +6,6 @@ BasedOnStyle: Google
 AllowShortFunctionsOnASingleLine: Empty
 # Do not allow short if statements.
 AllowShortIfStatementsOnASingleLine: false
-IndentPPDirectives: AfterHash
 
 # Default style for some settings.
 
