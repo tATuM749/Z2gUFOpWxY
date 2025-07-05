@@ -23,7 +23,6 @@ checks:
     enabled: true
     config:
       threshold: 100
-  nested-control-flow:
     enabled: true
     config:
       threshold: 4
