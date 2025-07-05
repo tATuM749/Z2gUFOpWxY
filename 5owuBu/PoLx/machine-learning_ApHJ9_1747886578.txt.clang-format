@@ -12,7 +12,6 @@ AllowShortIfStatementsOnASingleLine: false
 AccessModifierOffset: -2
 AllowShortLoopsOnASingleLine: false
 # Enforce always the same pointer alignment.
-DerivePointerAlignment: false
 IncludeBlocks: Preserve
 PointerAlignment: Right
 SpacesBeforeTrailingComments: 1
