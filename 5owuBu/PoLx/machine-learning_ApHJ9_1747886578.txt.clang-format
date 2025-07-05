@@ -2,7 +2,6 @@ BasedOnStyle: Google
 
 # Modifications for Tesseract.
 
-# Only merge empty functions.
 AllowShortFunctionsOnASingleLine: Empty
 # Do not allow short if statements.
 AllowShortIfStatementsOnASingleLine: false
