@@ -6,7 +6,6 @@ AllowShortFunctionsOnASingleLine: Empty
 # Do not allow short if statements.
 
 # Default style for some settings.
-
 AccessModifierOffset: -2
 AllowShortLoopsOnASingleLine: false
 # Enforce always the same pointer alignment.
