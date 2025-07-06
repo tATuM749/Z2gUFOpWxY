@@ -1,4 +1,3 @@
 # All files are checked into the repo and cloned with LF
 * text=auto
-# in Unix via a file share from Windows, the scripts will work.
 *.sh text eol=lf
