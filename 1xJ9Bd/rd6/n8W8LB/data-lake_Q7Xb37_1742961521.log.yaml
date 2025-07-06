@@ -23,7 +23,6 @@ header:
     - '**/*.json'
     - '**/*.iml'
     - '**/.gitignore'
-    - '**/*.yml'
     - '**/*.yaml'
     - '**/*.yaml'
     - '**/*.dll'
