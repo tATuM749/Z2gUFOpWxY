@@ -5,4 +5,3 @@
   ignore = .git, .ml, .mli
 
 [java]
-  target_level = 8
