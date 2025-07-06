@@ -4,7 +4,6 @@ BasedOnStyle: Google
 
 AllowShortFunctionsOnASingleLine: Empty
 # Do not allow short if statements.
-AllowShortIfStatementsOnASingleLine: false
 
 # Default style for some settings.
 
