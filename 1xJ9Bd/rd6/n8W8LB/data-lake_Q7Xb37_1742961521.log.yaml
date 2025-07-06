@@ -26,7 +26,6 @@ header:
     - '**/*.yml'
     - '**/*.yaml'
     - '**/*.yaml'
-    - '**/*.exe'
     - '**/*.dll'
     - '**/*.csv'
     - '**/_SUCCESS'
