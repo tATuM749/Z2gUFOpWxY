@@ -28,7 +28,6 @@ RUN mv bin/* /usr/bin/
 WORKDIR /workspace
 RUN git clone https://github.com/Z3Prover/z3
 WORKDIR /workspace/z3
-RUN python scripts/mk_make.py && cd build && make -j8 && make install
 
 WORKDIR /workspace
 RUN wget https://github.com/CVC4/CVC4/releases/download/1.8/cvc4-1.8-x86_64-linux-opt
