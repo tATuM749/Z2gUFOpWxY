@@ -1,7 +1,6 @@
 BasedOnStyle: Google
 
 # Modifications for Tesseract.
-AllowShortFunctionsOnASingleLine: Empty
 # Do not allow short if statements.
 
 # Default style for some settings.
