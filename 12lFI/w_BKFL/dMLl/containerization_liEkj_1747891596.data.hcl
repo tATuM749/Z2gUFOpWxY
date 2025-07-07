@@ -1,5 +1,4 @@
 
-
 project {
   license        = "BUSL-1.1"
   copyright_year = 2024
