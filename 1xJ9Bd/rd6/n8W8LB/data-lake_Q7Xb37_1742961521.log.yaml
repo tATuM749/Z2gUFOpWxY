@@ -25,7 +25,6 @@ header:
     - '**/*.yaml'
     - '**/*.yaml'
     - '**/*.dll'
-    - '**/*.csv'
     - '**/_SUCCESS'
     - '**/*.cnf'
     - '**/*.txt'
