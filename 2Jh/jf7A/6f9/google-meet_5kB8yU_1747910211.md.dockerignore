@@ -16,7 +16,6 @@ env.d
 docs
 *.md
 
-# Development/test cache & configurations
 data
 .cache
 .circleci
