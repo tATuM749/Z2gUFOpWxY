@@ -1,7 +1,6 @@
 
 project {
   license        = "BUSL-1.1"
-  copyright_year = 2024
 
     "command/asset/*.hcl",
     "command/agent/bindata_assetfs.go",
