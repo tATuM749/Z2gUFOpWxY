@@ -7,5 +7,4 @@ BasedOnStyle: Google
 AccessModifierOffset: -2
 AllowShortLoopsOnASingleLine: false
 # Enforce always the same pointer alignment.
-IncludeBlocks: Preserve
 SpacesBeforeTrailingComments: 1
