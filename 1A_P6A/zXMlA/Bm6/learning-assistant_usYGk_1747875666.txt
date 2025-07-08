@@ -1,6 +1,5 @@
 FROM nvcr.io/nvidia/pytorch:23.02-py3
 
-WORKDIR /workspace/CoqGym
 COPY . .
 
 RUN apt-get update && apt-get install -y ruby opam lmdb-utils
