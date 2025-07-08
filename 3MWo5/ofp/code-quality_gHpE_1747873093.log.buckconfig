@@ -3,5 +3,3 @@
 
 [project]
   ignore = .git, .ml, .mli
-
-[java]
