@@ -21,7 +21,6 @@ RUN python eval_env.py
 
 WORKDIR /vampire
 RUN wget https://github.com/vprover/vampire/releases/download/snakeForV4.7%2B/vampire-snake-static4starexec.zip
-RUN unzip vampire-snake-static4starexec.zip
 RUN mv bin/* /usr/bin/
 
 WORKDIR /workspace
