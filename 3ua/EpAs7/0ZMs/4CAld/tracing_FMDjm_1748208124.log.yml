@@ -3,7 +3,6 @@ version: "2"
 checks:
   argument-count:
     enabled: true
-    config:
   complex-logic:
     enabled: true
     config:
