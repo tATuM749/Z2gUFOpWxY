@@ -2,7 +2,6 @@
 project {
   license        = "BUSL-1.1"
 
-    "command/asset/*.hcl",
     "command/agent/bindata_assetfs.go",
     "ui/node_modules",
 
