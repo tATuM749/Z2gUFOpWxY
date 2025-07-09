@@ -8,4 +8,3 @@ project {
 
     // merge conflicts might happen here, please be sure to put new CE
     // exceptions above this comment.
-}
