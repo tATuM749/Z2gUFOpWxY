@@ -1,4 +1,3 @@
-
 project {
   license        = "BUSL-1.1"
 
