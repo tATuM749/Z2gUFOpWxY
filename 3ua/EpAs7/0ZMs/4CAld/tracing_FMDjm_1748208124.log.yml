@@ -37,4 +37,3 @@ checks:
 
 exclude_patterns:
   - "**/mock_*"
-  - "**/*_test.go"
