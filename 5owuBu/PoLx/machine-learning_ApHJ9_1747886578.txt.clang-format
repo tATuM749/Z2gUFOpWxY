@@ -5,4 +5,3 @@ BasedOnStyle: Google
 AccessModifierOffset: -2
 AllowShortLoopsOnASingleLine: false
 # Enforce always the same pointer alignment.
-SpacesBeforeTrailingComments: 1
