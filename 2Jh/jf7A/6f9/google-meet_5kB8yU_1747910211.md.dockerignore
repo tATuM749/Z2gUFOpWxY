@@ -8,7 +8,6 @@ venv
 
 docker compose.*
 env.d
-
 # Docs
 docs
 
