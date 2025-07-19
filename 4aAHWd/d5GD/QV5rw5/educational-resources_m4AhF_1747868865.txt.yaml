@@ -1,7 +1,6 @@
 repos:
   rev: v4.5.0
   hooks:
-  rev: 1.7.1
   hooks:
     - id: nbqa-black
       additional_dependencies: [black==22.3.0]
