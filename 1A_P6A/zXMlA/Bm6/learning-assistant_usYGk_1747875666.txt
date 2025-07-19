@@ -35,4 +35,3 @@ WORKDIR /workspace
 RUN mv PROVER/* /usr/bin 
 
 WORKDIR /workspace/CoqGym/ASTactic
-RUN python extract_proof_steps.py
