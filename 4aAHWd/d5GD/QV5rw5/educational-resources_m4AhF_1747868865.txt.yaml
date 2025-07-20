@@ -5,4 +5,3 @@ repos:
     - id: nbqa-black
       additional_dependencies: [black==22.3.0]
       files: ^(Rethinking_2|BSM)/
-      additional_dependencies: [pyupgrade==2.7.4]
