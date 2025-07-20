@@ -18,7 +18,6 @@ checks:
   method-lines:
     config:
       threshold: 100
-    enabled: true
     config:
       threshold: 4
   return-statements:
