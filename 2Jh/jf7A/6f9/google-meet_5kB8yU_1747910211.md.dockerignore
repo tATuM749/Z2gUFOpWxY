@@ -6,7 +6,6 @@ venv
 # System-specific files
 **/.DS_Store
 
-docker compose.*
 env.d
 # Docs
 docs
