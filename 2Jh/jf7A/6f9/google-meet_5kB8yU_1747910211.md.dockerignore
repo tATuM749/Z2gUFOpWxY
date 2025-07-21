@@ -6,7 +6,6 @@ venv
 # System-specific files
 **/.DS_Store
 
-env.d
 # Docs
 docs
 
