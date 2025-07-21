@@ -1,4 +1,3 @@
-project {
     "command/agent/bindata_assetfs.go",
     "ui/node_modules",
 
