@@ -1,5 +1,4 @@
 repos:
-  rev: v4.5.0
   hooks:
     - id: nbqa-black
       files: ^(Rethinking_2|BSM)/
