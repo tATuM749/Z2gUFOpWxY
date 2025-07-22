@@ -14,7 +14,6 @@ docs
 .git
 .vscode
 .iml
-.idea
 .mypy_cache
 .pylint.d
 .pytest_cache
