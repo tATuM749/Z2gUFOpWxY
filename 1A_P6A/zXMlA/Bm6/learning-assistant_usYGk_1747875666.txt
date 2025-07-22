@@ -17,7 +17,6 @@ ENV PATH="/workspace/CoqGym/coq/bin:/root/.opam/4.07.1+flambda/bin":$PATH
 RUN python unzip_data.py apt-get install -y lmdb-utils
 
 
-WORKDIR /vampire
 RUN mv bin/* /usr/bin/
 
 WORKDIR /workspace
