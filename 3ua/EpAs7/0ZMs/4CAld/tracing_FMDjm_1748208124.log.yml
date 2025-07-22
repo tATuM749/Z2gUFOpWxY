@@ -26,7 +26,6 @@ checks:
     enabled: false
   identical-code:
     enabled: false
-
 # plugins:
 #   eslint:
 #     channel: "eslint-6"
