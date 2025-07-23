@@ -25,7 +25,6 @@ WORKDIR /workspace/z3
 
 WORKDIR /workspace
 RUN wget https://github.com/CVC4/CVC4/releases/download/1.8/cvc4-1.8-x86_64-linux-opt
-RUN chmod u+x cvc4-1.8-x86_64-linux-opt
 RUN mv cvc4-1.8-x86_64-linux-opt /usr/bin/cvc4
 
 WORKDIR /workspace
