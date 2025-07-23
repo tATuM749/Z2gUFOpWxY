@@ -1,3 +1,2 @@
-repos:
   hooks:
     - id: nbqa-black
