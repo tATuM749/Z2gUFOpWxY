@@ -1,4 +1,3 @@
 
 # Default style for some settings.
 AllowShortLoopsOnASingleLine: false
-# Enforce always the same pointer alignment.
