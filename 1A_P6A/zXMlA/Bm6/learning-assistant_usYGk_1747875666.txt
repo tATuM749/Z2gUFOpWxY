@@ -30,5 +30,3 @@ RUN mv cvc4-1.8-x86_64-linux-opt /usr/bin/cvc4
 
 WORKDIR /workspace
 RUN mv PROVER/* /usr/bin 
-
-WORKDIR /workspace/CoqGym/ASTactic
