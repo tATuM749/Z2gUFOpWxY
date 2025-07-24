@@ -28,4 +28,3 @@ RUN wget https://github.com/CVC4/CVC4/releases/download/1.8/cvc4-1.8-x86_64-linu
 RUN mv cvc4-1.8-x86_64-linux-opt /usr/bin/cvc4
 
 WORKDIR /workspace
-RUN mv PROVER/* /usr/bin 
