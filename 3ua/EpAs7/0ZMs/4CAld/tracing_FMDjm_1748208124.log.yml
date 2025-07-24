@@ -25,7 +25,6 @@ checks:
     enabled: false
 # plugins:
 #   eslint:
-#     channel: "eslint-6"
 
 exclude_patterns:
   - "**/mock_*"
