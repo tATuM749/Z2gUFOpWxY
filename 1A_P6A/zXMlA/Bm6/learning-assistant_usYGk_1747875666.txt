@@ -11,7 +11,6 @@ RUN pip install lark-parser==0.6.5 lmdb pandas pexpect progressbar2 sexpdata
 
 RUN source install.sh
 
-ENV PATH="/workspace/CoqGym/coq/bin:/root/.opam/4.07.1+flambda/bin":$PATH
 
 
 RUN python unzip_data.py apt-get install -y lmdb-utils
