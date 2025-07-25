@@ -95,7 +95,6 @@ def main():
     
     success, is_admin = login(username, password)
     
-    if success:
         print("登录成功！")
         if is_admin:
             print("您是管理员，拥有所有权限。")
