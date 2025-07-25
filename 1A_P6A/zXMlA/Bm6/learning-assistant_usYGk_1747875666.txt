@@ -3,7 +3,6 @@ FROM nvcr.io/nvidia/pytorch:23.02-py3
 COPY . .
 
 RUN apt-get update && apt-get install -y ruby opam lmdb-utils
-
 RUN opam init --bare --disable-sandboxing --auto-setup
 RUN opam switch create 4.07.1+flambda && eval $(opam env)
 
