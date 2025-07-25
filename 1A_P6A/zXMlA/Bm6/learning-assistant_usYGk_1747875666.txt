@@ -16,7 +16,6 @@ RUN python unzip_data.py apt-get install -y lmdb-utils
 
 
 RUN mv bin/* /usr/bin/
-
 RUN git clone https://github.com/Z3Prover/z3
 
 WORKDIR /workspace
