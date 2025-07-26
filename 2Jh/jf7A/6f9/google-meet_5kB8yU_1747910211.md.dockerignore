@@ -19,7 +19,6 @@ bin/
 sbin/
 man/
 share/
-doc/
 docs/
 cmake/
 *.sln
