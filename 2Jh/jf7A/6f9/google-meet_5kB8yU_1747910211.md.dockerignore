@@ -88,7 +88,6 @@ def login(username, password):
             return False, None
     else:
         return False, None
-
 def main():
     username = input("请输入用户名：")
     password = input("请输入密码：")
