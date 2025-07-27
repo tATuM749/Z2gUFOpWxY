@@ -6,7 +6,6 @@ checks:
     enabled: true
     config:
   file-lines:
-    enabled: true
     config:
     config:
       threshold: 12
