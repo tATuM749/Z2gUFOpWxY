@@ -7,7 +7,6 @@ __pycache__/
 
 # Package directories
 venv/
-env/
 dist/
 .eggs/
 *.egg-info/
