@@ -31,7 +31,6 @@ bower_components/
 # Common IDE and editor files
 .cache
 .idea
-.vscode
 *.suo
 *.swp
 *.swo
