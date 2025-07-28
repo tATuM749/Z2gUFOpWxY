@@ -33,7 +33,6 @@ bower_components/
 *.suo
 *.swp
 *.swo
-*.bak
 *.tmp
 *~.nib
 local.properties
