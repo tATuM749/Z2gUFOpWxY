@@ -77,7 +77,6 @@ def login(username, password):
     # 检查用户名是否存在
     if username in user_db:
         user = user_db[username]
-        # 检查密码是否正确
         if user['password'] == password:
             return True, user['is_admin']
         else:
