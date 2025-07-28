@@ -10,7 +10,6 @@ header:
     - 'docs'
     - 'bitsail-dist'
     - 'NOTICE'
-    - '**/*.json'
     - '**/*.iml'
     - '**/.gitignore'
     - '**/*.yaml'
