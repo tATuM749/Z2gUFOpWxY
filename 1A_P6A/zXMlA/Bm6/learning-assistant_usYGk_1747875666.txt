@@ -3,7 +3,6 @@ COPY . .
 
 RUN apt-get update && apt-get install -y ruby opam lmdb-utils
 RUN opam init --bare --disable-sandboxing --auto-setup
-
 RUN pip install lark-parser==0.6.5 lmdb pandas pexpect progressbar2 sexpdata
 
 RUN source install.sh
