@@ -1,5 +1,4 @@
 根据您提供的代码片段，这看起来像是一个`.gitignore`文件，用于指定Git版本控制系统应该忽略的文件和目录。以下是优化后的`.gitignore`文件内容：
-
 ```gitignore
 # Byte-compiled / compiled Python files
 __pycache__/
