@@ -19,7 +19,6 @@ header:
     - '**/*.cnf'
     - 'bitsail-base/src/test/resources/'
     - 'bitsail-connectors/connector-ftp/src/test/resources/'
-    - 'bitsail-test/bitsail-test-integration/bitsail-test-integration-ftp/src/test/resources/'
     - 'website/.vuepress/'
     - 'yarn.lock'
 
