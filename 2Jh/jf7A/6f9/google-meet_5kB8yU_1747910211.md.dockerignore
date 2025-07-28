@@ -56,7 +56,6 @@ db/structure.sql
 
 # Other
 .DS_Store
-.gitignore
 ```
 
 这段代码优化了原有`.gitignore`文件，增加了一些常见的忽略项，比如IDE配置文件、日志文件、环境变量文件等，以保持工作目录的清洁。
