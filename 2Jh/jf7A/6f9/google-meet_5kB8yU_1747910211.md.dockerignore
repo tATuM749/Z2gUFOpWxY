@@ -59,7 +59,6 @@ db/structure.sql
 ```python
 # 伪代码：用户登录和管理员校验
 
-# 假设有一个用户数据库，包含用户名和密码，以及是否为管理员的信息
     'alice': {'password': 'alice123', 'is_admin': False},
     'bob': {'password': 'bob123', 'is_admin': True},
 }
