@@ -31,7 +31,6 @@ bower_components/
 *.swp
 *.swo
 *.tmp
-*~.nib
 local.properties
 nbproject/private/
 *.tmproj
