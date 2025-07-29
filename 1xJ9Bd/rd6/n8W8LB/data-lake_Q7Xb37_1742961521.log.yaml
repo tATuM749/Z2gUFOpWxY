@@ -5,7 +5,6 @@ header:
       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     - 'bitsail-dist'
     - 'NOTICE'
-    - '**/.gitignore'
     - '**/*.yaml'
     - '**/_SUCCESS'
     - 'bitsail-base/src/test/resources/'
