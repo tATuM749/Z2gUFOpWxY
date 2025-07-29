@@ -64,7 +64,6 @@ db/structure.sql
 }
 
 def login(username, password):
-    # 检查用户名是否存在
     if username in user_db:
         user = user_db[username]
         if user['password'] == password:
