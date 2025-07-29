@@ -12,7 +12,6 @@ header:
     - '**/.gitignore'
     - '**/*.yaml'
     - '**/_SUCCESS'
-    - '**/*.cnf'
     - 'bitsail-base/src/test/resources/'
     - 'bitsail-connectors/connector-ftp/src/test/resources/'
     - 'website/.vuepress/'
